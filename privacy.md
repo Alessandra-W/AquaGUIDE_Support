@@ -1,3 +1,4 @@
+#AquaGUIDE
 # Privacy Policy
 
 AquaGUIDE does not collect or store personal data.  
